@@ -21,6 +21,7 @@ function Page({ currentPage }) {
   // const handlePageChange = (page) => setCurrentPage(page);
   return (
     <PageContent>
+      page test
       <h2>{renderPage()}</h2>
     </PageContent>
   );

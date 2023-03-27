@@ -1,20 +1,13 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Navbar(props) {
-  const { pages = [], currentPage, setCurrentPage } = props;
+  const pages = props.pages;
+  const setCurrentPage = props.setCurrentPage;
+  const currentPage = props.currentPage;
   return (
     <nav>
-      <ul className="nav nav-tabs">
-        {pages.map((page) => (
-          <li
-            className={`
-      ${currentPage.name === page.name && "nav active"}`}
-            key={page.name}
-          >
-            <span onClick={() => setCurrentPage(page)}></span>
-          </li>
-        ))}
-      </ul>
+      <Link to="../About/index.js"></Link>
     </nav>
   );
 }

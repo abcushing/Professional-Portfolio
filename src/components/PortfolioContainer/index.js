@@ -18,7 +18,7 @@ export default function PortfolioContainer() {
       name: "resume",
     },
   ]);
-  const [currentPage, setCurrentPage] = useState(pages[0]);
+  const [currentPage, setCurrentPage] = useState(pages);
 
   return (
     <div>
@@ -28,6 +28,7 @@ export default function PortfolioContainer() {
         currentPage={currentPage}
         // handlePageChange={handlePageChange}
       ></Navbar>
+      PortfolioContainer test
       <main>
         <Page currentPage={currentPage}></Page>
       </main>
