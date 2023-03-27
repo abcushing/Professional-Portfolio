@@ -5,11 +5,7 @@ function Navbar(props) {
   const pages = props.pages;
   const setCurrentPage = props.setCurrentPage;
   const currentPage = props.currentPage;
-  return (
-    <nav>
-      <Link to="../About/index.js"></Link>
-    </nav>
-  );
+  return <nav>navbar test</nav>;
 }
 
 export default Navbar;

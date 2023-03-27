@@ -1,7 +1,20 @@
 import React from "react";
+import About from "../About";
+import Contact from "../Contact";
+import Portfolio from "../Portfolio";
+import Resume from "../Resume";
 
 const PageContent = (props) => {
-  return <div> pagecontent test {props.children}</div>;
+  return (
+    <div>
+      {" "}
+      pagecontent test
+      <About></About>
+      <Portfolio></Portfolio>
+      <Resume></Resume>
+      <Contact></Contact>
+    </div>
+  );
 };
 
 export default PageContent;
