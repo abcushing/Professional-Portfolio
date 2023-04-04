@@ -7,39 +7,57 @@ const Portfolio = () => {
         <div class="col"></div>
         <div class="col-6">
           <h2>Examples of my Work</h2>
-          <p>(in chronological order)</p>
-          <h4>
-            Project 1(2)
-            {/* https://github.com/abcushing/challange-002 */}
-          </h4>
-          <h4>
-            Project 2(6)
-            {/* https://github.com/abcushing/Challange006-WeatherApp */}
-          </h4>
-          <h4>
-            Project 3(9)
-            {/* https://github.com/abcushing/Challange09-ReadMe */}
-          </h4>
-          <h4>
-            Project 4(12)
-            {/* https://github.com/abcushing/Employee-Tracker */}
-          </h4>
-          <h4>
-            Project 5(13)
-            {/* https://github.com/abcushing/E-commerce-Back-End */}
-          </h4>
-          <h4>
-            Project 6(18)
-            {/* https://github.com/abcushing/socialnetworkapi-nosql -turned off heroku so I would not have to pay for this app*/}
-          </h4>
-          <h4>
-            Group Project (1)
-            {/* https://github.com/abcushing/copy_mordle */}
-            <p>
-              out of the 3 group projects, this was the most origonal project I
-              worked on
-            </p>
-          </h4>
+          <p>
+            (in chronological order)
+            {/* screenshots in public/screenshots */}
+          </p>
+          <h4>Project: Porfolio Demo</h4>
+          <p>
+            This was my second project I created, a demo portfolio. this simple,
+            sample site was good practice to get the basics of CSS and HTML
+          </p>
+          {/* https://github.com/abcushing/challange-002 project 2*/}
+          <br></br>
+          <h4>Project: Weather App</h4>
+          <p>
+            This was the sixth project I created. It is a simple weather app
+            that uses a server-side API to find the weather for any given area.
+            Includes 5 day forcast and weather icons{" "}
+          </p>
+          {/* https://github.com/abcushing/Challange006-WeatherApp project 6*/}
+          <br></br>
+          <h4>Project: Readme Generator</h4>
+          <p>
+            This was the ninth project I created. It is a Readme Generator;it
+            dynamically creates a ReadMe based on the input provided using
+            Node.js (I have a link to a demo video below){" "}
+          </p>
+          {/* https://github.com/abcushing/Challange09-ReadMe project 9, demo video is an unlisted yt link in the readme*/}
+          <br></br>
+          <h4>Project: Employee Tracker</h4>
+          <p>
+            This was the twetlth project I worked on. it is a command line
+            application that can be used as an employee database. This control
+            managment system was built using Node.js, Inquirer, and MySQL (I
+            have a link to a demo video below){" "}
+          </p>
+          {/* https://github.com/abcushing/Employee-Tracker project 12*/}
+          <br></br>
+          <h4>Project: E-commerce-Back</h4>
+          {/* https://github.com/abcushing/E-commerce-Back-End project 13*/}
+          <br></br>
+          <h4>Project: Social Network API</h4>
+          {/* https://github.com/abcushing/socialnetworkapi-nosql project 14 -turned off heroku so I would not have to pay for this app*/}
+          <br></br>
+          <h4>Group Project: Mordle</h4>
+          {/* https://github.com/abcushing/copy_mordle group project 1*/}
+          <p>
+            out of the 3 group projects, this was the most original project I
+            worked on. We decided to make a wordle app (word guessing game) but
+            give it a movie theme. This was a collaboration between myself and 2
+            other classmates
+          </p>
+          <br></br>
         </div>
         <div class="col"></div>
       </div>
