@@ -30,7 +30,15 @@ const Portfolio = () => {
           </h4>
           <h4>
             Project 6(18)
-            {/* https://github.com/abcushing/socialnetworkapi-nosql */}
+            {/* https://github.com/abcushing/socialnetworkapi-nosql -turned off heroku so I would not have to pay for this app*/}
+          </h4>
+          <h4>
+            Group Project (1)
+            {/* https://github.com/abcushing/copy_mordle */}
+            <p>
+              out of the 3 group projects, this was the most origonal project I
+              worked on
+            </p>
           </h4>
         </div>
         <div class="col"></div>
