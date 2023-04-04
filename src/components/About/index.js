@@ -21,7 +21,8 @@ const About = () => {
             </img> */}
             <p>
               blurb hi im a human who recently finished a coding bootcamp
-              through denver university's online program
+              through denver university's online program. Definatly not two kids
+              in a chatbot GPT suit
             </p>
             {/* link to pdf bootcamp badges */}
           </div>
