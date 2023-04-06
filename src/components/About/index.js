@@ -1,10 +1,10 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import Contact from "../Contact/index";
-import Navbar from "../Navbar/index";
-import Portfolio from "../Portfolio/index";
-import Page from "../Page";
-// import Alex_CollegeGradPhoto_2015_005 from "./public/photos/Alex_CollegeGradPhoto_2015_005.jpg";
+// import { Link } from "react-router-dom";
+// import Contact from "../Contact/index";
+// import Navbar from "../Navbar/index";
+// import Portfolio from "../Portfolio/index";
+// import Page from "../Page";
+// // import Alex_CollegeGradPhoto_2015_005 from "./public/photos/Alex_CollegeGradPhoto_2015_005.jpg";
 
 const About = () => {
   return (
@@ -13,7 +13,7 @@ const About = () => {
         <div class="row">
           <div class="col"></div>
           <div class="col-6">
-            <h1>About</h1>
+            <h1>My Portfolio</h1>
             Alex Cushing
             <p>headshot here</p>
             {/* <img src={Alex_CollegeGradPhoto_2015_005.jpg}>

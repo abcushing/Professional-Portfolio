@@ -22,6 +22,14 @@ const Portfolio = () => {
             rel="noopener noreferrer"
           >
             Portfolio Demo on Github
+          </a>{" "}
+          <br></br>
+          <a
+            href="https://abcushing.github.io/challange-002/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Check out my Portfolio Demo here
           </a>
           {/* <p>screenshot01 here</p> */}
           {/* https://github.com/abcushing/challange-002 project 2*/}
@@ -39,6 +47,14 @@ const Portfolio = () => {
             rel="noopener noreferrer"
           >
             Weather App on Github
+          </a>
+          <br></br>
+          <a
+            href="https://abcushing.github.io/Challange006-WeatherApp/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Check out my Weather App here
           </a>
           {/* weather app screenshot here */}
           {/* https://github.com/abcushing/Challange006-WeatherApp project 6*/}
@@ -82,6 +98,14 @@ const Portfolio = () => {
           >
             Employee Tracker on Github
           </a>
+          <br></br>
+          <a
+            href="https://drive.google.com/file/d/1H_yXltCKPAEQ9Npvmb7TC-r8C_1agmMR/view"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Employee Tracker Demo
+          </a>
           {/* https://github.com/abcushing/Employee-Tracker project 12*/}
           <br></br>
           <br></br>
@@ -98,6 +122,14 @@ const Portfolio = () => {
             rel="noopener noreferrer"
           >
             E-Commerce-Back-End on Github
+          </a>
+          <br></br>
+          <a
+            href="https://drive.google.com/file/d/1ZE5cWbae9I85anBmkoRT0F1mk0SHcp39/view"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            E-Commerce-Back-End Demo
           </a>
           {/* https://github.com/abcushing/E-commerce-Back-End project 13*/}
           <br></br>
@@ -116,6 +148,14 @@ const Portfolio = () => {
           >
             Social Network API on Github
           </a>
+          <br></br>
+          <a
+            href="https://drive.google.com/file/d/1oC-SvBbxtDHI0VsJ6m5S-91SZfkCLV1T/view"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Social Network API Demo
+          </a>
           {/* https://github.com/abcushing/socialnetworkapi-nosql project 18 -turned off heroku so I would not have to pay for this app*/}
           <br></br>
           <br></br>
@@ -133,11 +173,20 @@ const Portfolio = () => {
           >
             Mordle on Github
           </a>
+          <br></br>
+          <a
+            href="https://abcushing.github.io/copy_mordle/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Check out our Mordle app here
+          </a>
           {/* https://github.com/abcushing/copy_mordle group project 1*/}
           <br></br>
         </div>
         <div class="col"></div>
       </div>
+      <br></br>
     </div>
   );
 };
