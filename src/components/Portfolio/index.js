@@ -3,9 +3,9 @@ import React from "react";
 const Portfolio = () => {
   return (
     <div class="container text-center">
-      <div class="row">
+      <div class="row g-0">
         <div class="col"></div>
-        <div class="col-6">
+        <div class="col-8">
           <h2>Examples of my Work</h2>
           <p>
             (in chronological order)

@@ -30,8 +30,8 @@
 
 body {
   background-color: aqua;
-  color: orange;
-  font-family: 'Courier New', Courier, monospace;
+  color: rgb(1, 1, 1);
+  font-family:Arial, Helvetica, sans-serif;
   text-align: center;
 }
 
