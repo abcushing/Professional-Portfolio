@@ -11,26 +11,29 @@ const About = () => {
     <div>
       <div class="container text-center" id="nav-about">
         <div class="row">
-          <div class="col"></div>
-          <div class="col-6">
+          <div className="col"></div>
+          <div className="col-6">
             <h1>My Portfolio</h1>
             Alex Cushing
             <p>headshot here</p>
-            {/* <img src={Alex_CollegeGradPhoto_2015_005.jpg}>
-              Alex_CollegeGradPhoto_2015_005
-            </img> */}
+            <img
+              src="./photos/Alex_CollegeGradPhoto_2015_005.jpg"
+              alt="Alex Cushing"
+              width={250}
+            ></img>
             <p>
               blurb hi im a human who recently finished a coding bootcamp
               through Denver University's online program. Definatly not two kids
               in a chatbot GPT trenchcoat
+              <a href="./pdf/Resume3-24-23.pdf" target="_blank">
+                my resume here here
+              </a>
             </p>
             {/* link to pdf bootcamp badges */}
           </div>
           <div class="col"></div>
         </div>
       </div>
-
-      <button type="button" class="btn btn-primary"></button>
     </div>
   );
 };

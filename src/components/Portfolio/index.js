@@ -11,28 +11,39 @@ const Portfolio = () => {
             (in chronological order)
             {/* screenshots in public/screenshots */}
           </p>
-          <h4>Project: Porfolio Demo</h4>
-          <p>
-            This was my second project I created, a demo portfolio. this simple,
-            sample site was good practice to get the basics of CSS and HTML
-          </p>
-          <a
-            href="https://github.com/abcushing/challange-002"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Portfolio Demo on Github
-          </a>{" "}
-          <br></br>
-          <a
-            href="https://abcushing.github.io/challange-002/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Check out my Portfolio Demo here
-          </a>
-          {/* <p>screenshot01 here</p> */}
-          {/* https://github.com/abcushing/challange-002 project 2*/}
+          <div className="card -self-center">
+            <div className="card-body">
+              {" "}
+              <h4>Project: Porfolio Demo</h4>
+              <p>
+                This was my second project I created, a demo portfolio. this
+                simple, sample site was good practice to get the basics of CSS
+                and HTML
+              </p>
+              <a
+                href="https://github.com/abcushing/challange-002"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Portfolio Demo on Github
+              </a>{" "}
+              <br></br>
+              <a
+                href="https://abcushing.github.io/challange-002/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Check out my Portfolio Demo here
+              </a>
+              {/* <p>screenshot01 here</p> */}
+              {/* https://github.com/abcushing/challange-002 project 2*/}
+              <img
+                src="./screenshots/project2.jpg"
+                alt="demo profile"
+                width="100%"
+              ></img>
+            </div>{" "}
+          </div>
           <br></br>
           <br></br>
           <h4>Project: Weather App</h4>
@@ -58,6 +69,11 @@ const Portfolio = () => {
           </a>
           {/* weather app screenshot here */}
           {/* https://github.com/abcushing/Challange006-WeatherApp project 6*/}
+          <img
+            src="./screenshots/project6.jpg"
+            alt="weather app"
+            width="100%"
+          ></img>
           <br></br>
           <br></br>
           <h4>Project: Readme Generator</h4>
@@ -82,6 +98,11 @@ const Portfolio = () => {
             ReadMe Generator Demo
           </a>
           {/* https://github.com/abcushing/Challange09-ReadMe project 9, demo video is an unlisted yt link in the readme*/}
+          <img
+            src="./screenshots/project9.jpg"
+            alt="readme generator"
+            width="100%"
+          ></img>
           <br></br>
           <br></br>
           <h4>Project: Employee Tracker</h4>
@@ -107,6 +128,11 @@ const Portfolio = () => {
             Employee Tracker Demo
           </a>
           {/* https://github.com/abcushing/Employee-Tracker project 12*/}
+          <img
+            src="./screenshots/project12.jpg"
+            alt="employee tracker"
+            width="100%"
+          ></img>
           <br></br>
           <br></br>
           <h4>Project: E-Commerce-Back-End</h4>
@@ -132,6 +158,11 @@ const Portfolio = () => {
             E-Commerce-Back-End Demo
           </a>
           {/* https://github.com/abcushing/E-commerce-Back-End project 13*/}
+          <img
+            src="./screenshots/project13.jpg"
+            alt="E-commerce-back-end"
+            width="100%"
+          ></img>
           <br></br>
           <br></br>
           <h4>Project: Social Network API</h4>
@@ -157,6 +188,11 @@ const Portfolio = () => {
             Social Network API Demo
           </a>
           {/* https://github.com/abcushing/socialnetworkapi-nosql project 18 -turned off heroku so I would not have to pay for this app*/}
+          <img
+            src="./screenshots/project18.jpg"
+            alt="demo profile"
+            width="100%"
+          ></img>
           <br></br>
           <br></br>
           <h4>Group Project: Mordle</h4>
@@ -182,6 +218,7 @@ const Portfolio = () => {
             Check out our Mordle app here
           </a>
           {/* https://github.com/abcushing/copy_mordle group project 1*/}
+          <img src="./screenshots/projectG.jpg" alt="Mordle" width="100%"></img>
           <br></br>
         </div>
         <div class="col"></div>
