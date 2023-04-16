@@ -2,7 +2,7 @@ import React from "react";
 
 const Portfolio = () => {
   return (
-    <div class="container text-center">
+    <div class="container text-center" id="nav-examples">
       <div class="row g-0">
         <div class="col"></div>
         <div class="col-8">

@@ -2,7 +2,7 @@ import React from "react";
 
 const Resume = () => {
   return (
-    <div class="container text-center">
+    <div class="container text-center" id="nav-resume">
       <div class="row">
         <div class="col"></div>
         <div class="col-6">

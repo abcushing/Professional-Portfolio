@@ -8,7 +8,6 @@ const PageContent = (props) => {
   return (
     <div>
       {" "}
-      pagecontent test
       <About></About>
       <Portfolio></Portfolio>
       <Resume></Resume>

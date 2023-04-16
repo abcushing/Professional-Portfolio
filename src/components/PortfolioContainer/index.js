@@ -28,7 +28,6 @@ export default function PortfolioContainer() {
         currentPage={currentPage}
         // handlePageChange={handlePageChange}
       ></Navbar>
-      PortfolioContainer test
       <main>
         <Page currentPage={currentPage}></Page>
       </main>

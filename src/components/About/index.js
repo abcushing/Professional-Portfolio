@@ -9,7 +9,7 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <div class="container text-center">
+      <div class="container text-center" id="nav-about">
         <div class="row">
           <div class="col"></div>
           <div class="col-6">
