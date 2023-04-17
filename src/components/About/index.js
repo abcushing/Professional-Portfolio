@@ -9,29 +9,38 @@ import React from "react";
 const About = () => {
   return (
     <div>
+      <br></br>
       <div class="container text-center" id="nav-about">
         <div class="row">
-          <div className="col"></div>
-          <div className="col-6">
-            <h1>My Portfolio</h1>
-            Alex Cushing
-            <p>headshot here</p>
-            <img
-              src="./photos/Alex_CollegeGradPhoto_2015_005.jpg"
-              alt="Alex Cushing"
-              width={250}
-            ></img>
-            <p>
-              blurb hi im a human who recently finished a coding bootcamp
-              through Denver University's online program. Definatly not two kids
-              in a chatbot GPT trenchcoat
-              <a href="./pdf/Resume3-24-23.pdf" target="_blank">
-                my resume here here
-              </a>
-            </p>
-            {/* link to pdf bootcamp badges */}
+          {/* <div className="col"></div> */}
+          <div className="card -self-center">
+            <div className="card-body">
+              {/* <div className="col-6"> */}
+              <h1>My Portfolio</h1>
+              <img
+                src="./photos/Alex_CollegeGradPhoto_2015_005.jpg"
+                alt="Alex Cushing"
+                width={300}
+              ></img>
+              <br></br>
+              <br></br>
+              <p>
+                Welcome to my site! My name is Alex Cushing. I recently
+                graduated a Fullstack coding bootcamp program through Denver
+                University. The program had a focus on Javascript, HTML, CSS,
+                MySQL, MongoDB, React.js as well as general Computer Science
+                concepts. Before this program I had been working as an IT Help
+                Desk Technician.
+                <br></br>
+                <a href="./pdf/Resume3-24-23-1pg.pdf" target="_blank">
+                  My Resume
+                </a>
+              </p>
+              {/* link to pdf bootcamp badges */}
+            </div>
+            <div class="col"></div>
+            {/* </div> */}
           </div>
-          <div class="col"></div>
         </div>
       </div>
     </div>
