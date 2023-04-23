@@ -3,6 +3,7 @@ import React from "react";
 const Portfolio = () => {
   return (
     <div class="container text-center" id="nav-examples">
+      <br></br>
       <div class="row g-0">
         <div class="col"></div>
         <div class="col-8">
@@ -117,7 +118,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h4>Project: Employee Tracker</h4>
               <p>
-                This was the twetlth project I worked on. It is a command line
+                This was the twelfth project I worked on. It is a command line
                 application that can be used as an employee database. This
                 control managment system was built using Node.js, Inquirer, and
                 MySQL (I have a link to a demo video below){" "}

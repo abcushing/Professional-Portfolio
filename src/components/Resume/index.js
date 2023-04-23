@@ -8,10 +8,12 @@ const Resume = () => {
         <div class="col-6">
           <h2>my resume here (PDF)</h2>
           <a href="./pdf/Resume3-24-23.pdf" target="_blank">
-            my resume here here
+            My Resume
           </a>
           <br></br>
-          <a href="./pdf/CERT.pdf">bootcamp cert</a>
+          <a href="./pdf/CERT.pdf">My Bootcamp Certificate</a>
+          <br></br>
+          <a href="./photos/Trixie-hat.jpg">My Biggest Fan</a>
         </div>
         <div class="col"></div>
       </div>
