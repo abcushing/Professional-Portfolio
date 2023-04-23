@@ -6,10 +6,11 @@ const Resume = () => {
       <div class="row">
         <div class="col"></div>
         <div class="col-6">
-          <h2>my resume here (PDF)</h2>
-          <a href="./pdf/Resume3-24-23.pdf" target="_blank">
-            My Resume
-          </a>
+          <h2>
+            <a href="./pdf/Resume3-24-23-1pg.pdf" target="_blank">
+              My Resume
+            </a>
+          </h2>
           <br></br>
           <a href="./pdf/CERT.pdf">My Bootcamp Certificate</a>
           <br></br>

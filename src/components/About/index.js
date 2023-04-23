@@ -26,11 +26,11 @@ const About = () => {
               <br></br>
               <p>
                 Welcome to my site! My name is Alex Cushing. I recently
-                graduated a Fullstack coding bootcamp program through Denver
-                University. The program had a focus on Javascript, HTML, CSS,
-                MySQL, MongoDB, React.js as well as general Computer Science
-                concepts. Before this program I had been working as an IT Help
-                Desk Technician.
+                graduated a Fullstack coding bootcamp program through The
+                University of Denver. The program had a focus on Javascript,
+                HTML, CSS, MySQL, MongoDB, React.js as well as general Computer
+                Science concepts. Before this program I had been working as an
+                IT Help Desk Technician.
                 <br></br>
                 <a href="./pdf/Resume3-24-23-1pg.pdf" target="_blank">
                   My Resume
