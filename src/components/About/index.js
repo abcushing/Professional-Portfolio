@@ -32,7 +32,7 @@ const About = () => {
                 Science concepts. Before this program, I had been working as an
                 IT Help Desk Technician.
                 <br></br>
-                <a href="./pdf/Resume3-24-23-1pg.pdf" target="_blank">
+                <a href="./pdf/resume4-24-23-1pg.pdf" target="_blank">
                   My Resume
                 </a>
               </p>
