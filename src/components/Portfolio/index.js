@@ -17,9 +17,8 @@ const Portfolio = () => {
               {" "}
               <h4>Project: Porfolio Demo</h4>
               <p>
-                This was my second project I created, a demo portfolio. this
-                simple, sample site was good practice to get the basics of CSS
-                and HTML
+                This was my second project, a demo portfolio. This simple,
+                sample site was good practice to get the basics of CSS and HTML.
               </p>
               <a
                 href="https://github.com/abcushing/challange-002"
@@ -53,7 +52,7 @@ const Portfolio = () => {
               <p>
                 This was the sixth project I created. It is a simple weather app
                 that uses a server-side API to find the weather for any given
-                area. Includes 5 day forcast and weather icons{" "}
+                area. It includes a 5 day forcast and weather icons.{" "}
               </p>
               <a
                 href="https://github.com/abcushing/Challange006-WeatherApp"
@@ -85,9 +84,9 @@ const Portfolio = () => {
             <div className="card-body">
               <h4>Project: Readme Generator</h4>
               <p>
-                This was the ninth project I created. It is a Readme
-                Generator;it dynamically creates a ReadMe based on the input
-                provided using Node.js (I have a link to a demo video below){" "}
+                This was the ninth project I created. It is a Readme Generator.
+                It dynamically creates a ReadMe based on the input provided
+                using Node.js (I have a link to a demo video below).{" "}
               </p>
               <a
                 href="https://github.com/abcushing/Challange09-ReadMe"
@@ -121,7 +120,7 @@ const Portfolio = () => {
                 This was the twelfth project I worked on. It is a command line
                 application that can be used as an employee database. This
                 control managment system was built using Node.js, Inquirer, and
-                MySQL (I have a link to a demo video below){" "}
+                MySQL (I have a link to a demo video below).{" "}
               </p>
               <a
                 href="https://github.com/abcushing/Employee-Tracker"
@@ -155,8 +154,8 @@ const Portfolio = () => {
                 This was the thirteenth project I worked on. It is the backend
                 of an e-commerce site. I had to use an Express.js API and
                 configure it to work with a MySQL database. Sequelize can be
-                used with to interact with the database.(I have a link to a demo
-                video below)
+                used to interact with the database.(I have a link to a demo
+                video below).
               </p>
               <a
                 href="https://github.com/abcushing/E-commerce-Back-End"
@@ -188,9 +187,9 @@ const Portfolio = () => {
               <h4>Project: Social Network API</h4>
               <p>
                 This was the eighteenth project I worked on (and one of the most
-                complicated so far!) It is an API for a social network app. I
+                complicated so far!) It is an API for a social networking app. I
                 used Express.js for routing and MongoDB Database with Mongoose
-                ODM (I have a link to a demo video below)
+                ODM (I have a link to a demo video below).
               </p>
               <a
                 href="https://github.com/abcushing/socialnetworkapi-nosql"
@@ -221,10 +220,10 @@ const Portfolio = () => {
             <div className="card-body">
               <h4>Group Project: Mordle</h4>
               <p>
-                out of the 3 group projects, this was the most original project
+                Out of 3 group projects, this was the most original project idea
                 I worked on. We decided to make a wordle app (word guessing
                 game) but give it a movie theme. This was a collaboration
-                between myself and 2 other classmates
+                between myself and 2 other classmates.
               </p>
               <a
                 href="https://github.com/abcushing/copy_mordle"
