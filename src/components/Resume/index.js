@@ -7,7 +7,7 @@ const Resume = () => {
         <div class="col"></div>
         <div class="col-6">
           <h2>
-            <a href="./pdf/resume4-24-23-1pg.pdf" target="_blank">
+            <a href="./pdf/CushingResume1-9-24.pdf" target="_blank">
               My Resume
             </a>
           </h2>

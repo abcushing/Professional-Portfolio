@@ -27,11 +27,11 @@ n/a (Educational)
 
 ## Contributing
 
-Anyone contributing to this project will need to have thier changes reviewed by the orinal team on Github (abcushing) before any changes are commited
+Anyone contributing to this project will need to have their changes reviewed by the orinal team on Github (abcushing) before any changes are commited
 
 ## Test
 
-undefined
+Undefined/ Not Applicable
 
 ## Questions
 
